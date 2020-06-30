@@ -1,0 +1,18 @@
+Привет, Алексей!
+
+Это Илья Муравьев, некоторое время назад я работал в G-Core.
+Не смог найти твой контакт, поэтому пробую достучаться до тебя через Github.
+
+Возможно тебя заинтересует предложение о работе в американском стартапе
+(я там работаю сейчас).
+
+Я цитирую главу компании, Danial Afzal <dan@insurita.com>:
+"""
+Yo do you know any strong data/python/backend/analytics people. Looking to bring a second on with lots of projects coming down the pipe. I think your good and anyone you think is good must be great :). Doesn’t matter if they’re employed I can be convincing 
+"""
+
+А вообще мой email muravev@yandex.ru, пиши если что.
+Приятно было с тобой работать в джикоре :)
+
+Илья Муравьев
+
